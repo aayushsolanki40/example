@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">aayush_s_application1</string>
+    <string name="loading">Loading?</string>
+    <string name="no_internet_connection">No internet connection!</string>
+    <!--TODO ENTER YOUR APP ID BELOW-->
+    <string name="facebook_app_id"/>
+    <!--TODO ENTER YOUR APP ID BELOW (eg: fb0123456789)-->
+    <string name="fb_login_protocol_scheme">fb</string>
+    <!--TODO ENTER YOUR Client Token BELOW-->
+    <string name="facebook_client_token"/>
+<string name="lbl_sign_up_email">Sign Up - email</string>
+<string name="msg_already_have_an">Already have an account?</string>
+<string name="lbl_email">Email</string>
+<string name="lbl_splash_page">Splash Page</string>
+<string name="msg_or_continue_wit">or continue with</string>
+<string name="lbl_next">next</string>
+<string name="msg_enter_your_emai">Enter your email address</string>
+<string name="msg_check_your_app">"Check your app's UI from the below demo screens of your app."</string>
+<string name="lbl_app_navigation">App Navigation</string>
+<string name="lbl_sign_up">sign up</string>
+<string name="msg_welcome_let_s">Welcome. Let\u2019s get started with your email address.</string>
+<string name="lbl_log_in">Log in</string>
+</resources>
